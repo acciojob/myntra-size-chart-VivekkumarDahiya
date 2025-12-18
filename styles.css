@@ -1,2 +1,21 @@
+table{   
+	border=1px solid black;
+	width:600px;	
+}
+thead{
+	background-color:red;
+	color:white;
+}
 
-/* Your CSS Code here. */
+#row-1{
+	background-color:#F5E5E1;
+}
+#row-2{
+	background-color:#9CC6DB
+
+}
+#row-3{
+	background-color:#607B8F;
+}
+
+
